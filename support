@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AlarmPanels Support</title>
+</head>
+<body>
+    <h1>AlarmPanels Support</h1>
+
+    <p>Thank you for using AlarmPanels.</p>
+
+    <p>
+        If you experience any issues, have questions, or would like to provide
+        feedback, please contact us.
+    </p>
+
+    <h2>Contact</h2>
+    <p>Email: dannyigit@hotmail.com </p>
+
+    <h2>Privacy</h2>
+    <p>
+        Please see our Privacy Policy for information about how AlarmPanels
+        handles user data.
+    </p>
+
+    <p>© 2026 AlarmPanels</p>
+</body>
+</html>
